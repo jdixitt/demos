@@ -1,0 +1,10 @@
+#%Catalog Descriptor 1.0
+projects:
+  - main: helloworld.raml
+    assetId: hello-world
+    version: 1.0.0
+    apiVersion: v1
+    tags:
+      - s-api
+    documentation:
+      Summary: Summary.md
